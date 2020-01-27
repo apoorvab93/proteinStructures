@@ -1,0 +1,1 @@
+An unsupervised attempt to predict protein structures based on the amino acid sequences by comparing them to 'cousin' protein
